@@ -75,5 +75,5 @@ The project is organized into several sections:
 
 1. **Clone the repository:**
    ```bash
-   git clone <repository-url>
+   git clone <git@github.com:raynlamlaika/libft-42-.git>
    cd libft
